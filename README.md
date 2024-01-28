@@ -1,5 +1,5 @@
 # Proyecto PokeAPI
-- Este proyecto utiliza HTML, CSS, JavaScript y jQuery para mostrar información de Pokémon obtenida a través de la PokeAPI.
+- Este proyecto utiliza HTML, CSS, JavaScript y jQuery para mostrar la informacion de los Pokemones a través de la plataforma PokeAPI
 
 ## Contenido:
 - Puedes ver el nombre de los Pókemones buscando el ID o su nombre.
