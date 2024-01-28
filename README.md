@@ -3,4 +3,4 @@
 
 ## Contenido:
 - Puedes ver el nombre de los Pókemones buscando el ID o su nombre.
-- Puedes ver una demostración del proyecto (https://github.com/N1coleM0reno/PokeAPI).
+- Puedes ver la demostración del proyecto aquí: https://github.com/N1coleM0reno/PokeAPI.
