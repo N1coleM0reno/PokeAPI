@@ -1,0 +1,60 @@
+body {
+  text-align: center;
+}
+
+h1 {
+    color: #6093ca;
+    font-family:system-ui;
+  }
+  
+.flex-container{
+  display: grid;
+}
+
+#campoBuscar {
+    padding: 9px;
+    font-size: 15px;
+    border: 1px solid #6093ca;
+    border-radius: 5px;
+    margin-right: 10px;
+    outline: none;
+}  
+
+#btnBuscar {
+    background-color: #6093ca; 
+    color: rgb(255, 255, 255); 
+    padding: 9px 20px; 
+    border: none; 
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px; 
+}
+
+#pokemon-container {
+  height: 360px;
+  margin-bottom: 20px;
+  color: #6093ca;
+}
+  
+.card {
+  align-self: center;
+  justify-self: center;
+  align-items: stretch;
+  height: 100%;
+  width: 250px;
+  border: 1px solid #6093ca;
+  border-radius: 5px;
+  margin: 5px;
+}
+  
+.card-img {
+  width: 100%;
+}
+  
+.card-title {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: system-ui;
+}
